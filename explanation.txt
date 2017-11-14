@@ -1,1 +1,3 @@
-Put your Project 5 brief explanation, as directed, here.
+I am accessing the Tumblr API. With this API I will first find audio posts that have music by the group “98 Degrees”. For these audio posts, I will access the track name, the number of times the audio post has been played, and the url for the audio post that contains this track. I’ll write one CSV file for this with three columns: the track name, the number of plays, and the url for the post. 
+
+I will also access all posts that have the tag ’98 Degrees’ (with a limit of 20). For this, I will write a a CSV for this information with four columns: the name of the blog name, the post url, all the tags included, and whether I liked the post or not.

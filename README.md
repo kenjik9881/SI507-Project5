@@ -41,7 +41,7 @@ See below for further instructions.
 
  > You *may* use any client library (like for example [Spotipy](https://github.com/plamere/spotipy) or [Tweepy](http://www.tweepy.org/), although Tweepy is especially nice, and also has some flaws...) to get data from an API if you wish (but not data from Facebook, Twitter, or Spotify) -- but be warned that sometimes, figuring out a complex client library that isn't well documented is more challenging than adapting your own code that does not use a library! It all depends on your end goal and your specific situation.
 
-  **Checkpoint #1:** You have selected 1 API, and read its documentation. You have looked at code from class and decidd which method of getting data from an OAuth-authenticated API is a good model for the API you are using in Project 5.
+  **Checkpoint #1:** You have selected 1 API, and read its documentation. You have looked at code from class and decided which method of getting data from an OAuth-authenticated API is a good model for the API you are using in Project 5.
 
   **NOTE:** If you find this material confusing AND exciting (:)), you may want to stick to understanding the code presented in class, and adapting it for Tumblr. If you find this material exciting but not super confusing, because you have previous experience or really love this kind of thing, and want to push yourself even further, adapting one of the OAuth2 examples that do not have any caching system implemented already may be a fun exercise to try.
 
